@@ -1,0 +1,61 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="skyNetV1.bookmarks"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="696"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <!--Pivot Control-->
+        <controls:Pivot>
+            <!--Pivot item one-->
+
+            <!--Pivot item two-->
+            <controls:PivotItem x:Name="exitsing_bookmarks" Header="Bookmarks">
+                <Grid>
+                	<ListBox>
+                		<StackPanel x:Name="bookmark_stackpanel" Height="562" Width="456"/>
+                	</ListBox>
+                </Grid>
+            </controls:PivotItem>
+            <controls:PivotItem x:Name="add_bookmarks" Header="Add New">
+            	<Grid>
+            		<Grid>
+            			<TextBlock Margin="47,0,42,0" TextWrapping="Wrap" Text="&lt;---For existing bookmarks, swipe left" VerticalAlignment="Top" RenderTransformOrigin="0.193,-0.536" Height="36"/>
+            			<TextBlock HorizontalAlignment="Left" Margin="19,87,0,0" TextWrapping="Wrap" Text="Bookmark Name:" VerticalAlignment="Top" Width="166" Height="34" Foreground="#FFC28B14"/>
+            			<TextBox x:Name="bookmark_name1" Margin="8,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="69" RenderTransformOrigin="0.46,0.58"/>
+            			<TextBlock Margin="19,209,0,0" TextWrapping="Wrap" Text="Bookmark Url:" VerticalAlignment="Top" Height="31" HorizontalAlignment="Left" Width="155" Foreground="#FFC88E11"/>
+            			<Button x:Name="only_add1" Content="Add My Bookmark" Margin="8,0,8,120" VerticalAlignment="Bottom" BorderBrush="#FFA35D08" Height="76" Click="only_add_Click" />
+            			<Button x:Name="add_redirect1" Click="add_redirect1_Click" Content="Add And Redirect" Margin="8,0,8,38" VerticalAlignment="Bottom" RenderTransformOrigin="0.53,0.478" Height="78" BorderBrush="#FFA35D08"/>
+            		</Grid>
+            		<TextBox x:Name="bookmark_url1" Text="https://" InputScope="url"   Margin="8,251,0,239" TextWrapping="Wrap" d:LayoutOverrides="Height"/>
+            	</Grid>
+            </controls:PivotItem>
+        </controls:Pivot>
+    </Grid>
+
+    <!--Sample code showing usage of ApplicationBar-->
+   <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton x:Name="appbar_button1" IconUri="/icons/appbar.delete.rest.png" Text="Delete All" Click="clear_bookmarks"/>
+            <shell:ApplicationBarIconButton x:Name="appbar_button2" IconUri="/icons/appbar.back.rest.png" Text="Previous" Click="appbar_button2_Click"/>
+            <shell:ApplicationBarIconButton x:Name="appbar_button3" IconUri="/icons/appbar.next.rest.png" Text="Latest" Click="appbar_button3_Click"/>
+
+            <!-- <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem x:Name="menuItem1" Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem x:Name="menuItem2" Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>-->
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+    
+</phone:PhoneApplicationPage>

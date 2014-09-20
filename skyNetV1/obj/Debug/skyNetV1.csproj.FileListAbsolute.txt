@@ -1,0 +1,609 @@
+c:\users\red-code\documents\visual studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ApplicationIcon.png
+c:\users\red-code\documents\visual studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\Background.png
+c:\users\red-code\documents\visual studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\skyNetV1.dll
+c:\users\red-code\documents\visual studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\skyNetV1.pdb
+c:\users\red-code\documents\visual studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\AppManifest.xaml
+c:\users\red-code\documents\visual studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\skyNetV1.xap
+c:\users\red-code\documents\visual studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\skyNetV1.g.resources
+c:\users\red-code\documents\visual studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\skyNetV1.dll
+c:\users\red-code\documents\visual studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\skyNetV1.pdb
+c:\users\red-code\documents\visual studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\XapCacheFile.xml
+c:\users\red-code\documents\visual studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\icons\appbar.feature.email.rest.png
+c:\users\red-code\documents\visual studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\icons\appbar.stop.rest.png
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\skyNetV1.csprojResolveAssemblyReference.cache
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\icons\appbar.refresh.rest.png
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\App.g.i.cs
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\browserPage.g.i.cs
+C:\Users\red-code\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\MainPage.g.i.cs
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\skyNetV1.g.resources
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\skyNetV1.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\skyNetV1.pdb
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ApplicationIcon.png
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\Background.png
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\icons\appbar.feature.email.rest.png
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\icons\appbar.refresh.rest.png
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\icons\appbar.stop.rest.png
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\skyNetV1.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\skyNetV1.pdb
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\AppManifest.xaml
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\skyNetV1.xap
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\XapCacheFile.xml
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\icons\appbar.add.rest.png
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\icons\appbar.favs.rest.png
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\icons\appbar.favs.addto.rest.png
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\icons\Faqs.png
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\icons\Faqs (1).png
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\skyNetV1.csprojResolveAssemblyReference.cache
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\App.g.i.cs
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\browserPage.g.i.cs
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\hello.g.i.cs
+C:\Users\Shivam_Cool\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\MainPage.g.i.cs
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ApplicationIcon.png
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\Background.png
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\icons\appbar.favs.addto.rest.png
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\icons\Faqs.png
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\icons\Faqs (1).png
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\icons\appbar.add.rest.png
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\icons\appbar.favs.rest.png
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\icons\appbar.feature.email.rest.png
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\icons\appbar.refresh.rest.png
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\icons\appbar.stop.rest.png
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\skyNetV1.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\skyNetV1.pdb
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\AppManifest.xaml
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\skyNetV1.xap
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\skyNetV1.csprojResolveAssemblyReference.cache
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\App.g.i.cs
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\browserPage.g.i.cs
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\hello.g.i.cs
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\MainPage.g.i.cs
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\skyNetV1.g.resources
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\skyNetV1.dll
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\skyNetV1.pdb
+C:\Users\Shivam\Documents\Visual Studio 2010\Projects\skyNetV1\skyNetV1\obj\Debug\XapCacheFile.xml
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\ApplicationIcon.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\Background.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\icons\appbar.favs.addto.rest.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\icons\Faqs.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\icons\Faqs (1).png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\icons\appbar.add.rest.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\icons\appbar.favs.rest.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\icons\appbar.feature.email.rest.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\icons\appbar.refresh.rest.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\icons\appbar.stop.rest.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\skyNetV1.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\skyNetV1.pdb
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\AppManifest.xaml
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\skyNetV1.xap
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\obj\Debug\skyNetV1.g.resources
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\obj\Debug\skyNetV1.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\obj\Debug\skyNetV1.pdb
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\obj\Debug\XapCacheFile.xml
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\icons\appbar.sync.rest.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\icons\appbar.transport.ff.rest.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\icons\appbar.transport.rew.rest.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\obj\Debug\Service References\App.g.i.cs
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\obj\Debug\browserPage.g.i.cs
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\obj\Debug\hello.g.i.cs
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\obj\Debug\MainPage.g.i.cs
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\icons\appbar.folder.rest.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\obj\Debug\history_page.g.i.cs
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1\skyNetV1\Bin\Debug\icons\appbar.delete.rest.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\ApplicationIcon.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\Background.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\icons\appbar.delete.rest.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\icons\appbar.favs.addto.rest.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\icons\appbar.folder.rest.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\icons\appbar.sync.rest.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\icons\appbar.transport.ff.rest.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\icons\appbar.transport.rew.rest.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\icons\Faqs.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\icons\Faqs (1).png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\icons\appbar.add.rest.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\icons\appbar.favs.rest.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\icons\appbar.feature.email.rest.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\icons\appbar.refresh.rest.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\icons\appbar.stop.rest.png
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\skyNetV1.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\skyNetV1.pdb
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\AppManifest.xaml
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\skyNetV1.xap
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\obj\Debug\skyNetV1.csprojResolveAssemblyReference.cache
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\obj\Debug\Service References\App.g.i.cs
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\obj\Debug\browserPage.g.i.cs
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\obj\Debug\hello.g.i.cs
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\obj\Debug\history_page.g.i.cs
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\obj\Debug\MainPage.g.i.cs
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\obj\Debug\skyNetV1.g.resources
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\obj\Debug\skyNetV1.dll
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\obj\Debug\skyNetV1.pdb
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\obj\Debug\XapCacheFile.xml
+C:\Users\desii\Documents\Visual Studio 2010\Projects\skyNetV1.1 - Copy\skyNetV1\obj\Debug\Bookmarks.g.i.cs
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\ApplicationIcon.png
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\Background.png
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.delete.rest.png
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.favs.addto.rest.png
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.folder.rest.png
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.sync.rest.png
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.transport.ff.rest.png
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.transport.rew.rest.png
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\icons\Faqs.png
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\icons\Faqs (1).png
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.add.rest.png
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.favs.rest.png
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.feature.email.rest.png
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.refresh.rest.png
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.stop.rest.png
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\skyNetV1.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\skyNetV1.pdb
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\AppManifest.xaml
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\skyNetV1.xap
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\obj\Debug\Service References\App.g.i.cs
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\obj\Debug\browserPage.g.i.cs
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\obj\Debug\hello.g.i.cs
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\obj\Debug\history_page.g.i.cs
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\obj\Debug\MainPage.g.i.cs
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\obj\Debug\skyNetV1.g.resources
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\obj\Debug\skyNetV1.dll
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\obj\Debug\skyNetV1.pdb
+C:\Users\Akash\Desktop\final copy skynet\skyNetV1\obj\Debug\XapCacheFile.xml
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\ApplicationIcon.png
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\Background.png
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.delete.rest.png
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.favs.addto.rest.png
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.folder.rest.png
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.sync.rest.png
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.transport.ff.rest.png
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.transport.rew.rest.png
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\icons\Faqs.png
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\icons\Faqs (1).png
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.add.rest.png
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.favs.rest.png
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.feature.email.rest.png
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.refresh.rest.png
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.stop.rest.png
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\skyNetV1.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\skyNetV1.pdb
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\AppManifest.xaml
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\Microsoft.Expression.Interactions.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\System.Windows.Interactivity.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\Microsoft.Advertising.Mobile.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\obj\Debug\skyNetV1.csprojResolveAssemblyReference.cache
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\obj\Debug\skyNetV1.g.resources
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\obj\Debug\skyNetV1.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\obj\Debug\skyNetV1.pdb
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\obj\Debug\XapCacheFile.xml
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.back.rest.png
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.next.rest.png
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\icons\appbar.questionmark.rest.png
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\Properties\WMAppManifest.xml
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\skyNetV1_Debug_AnyCPU.xap
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\obj\Debug\Service References\App.g.cs
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\obj\Debug\bookmarks.g.cs
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\obj\Debug\browserPage.g.cs
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\obj\Debug\create_bookmark.g.cs
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\obj\Debug\hello.g.cs
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\obj\Debug\history_page.g.cs
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\obj\Debug\MainPage.g.cs
+E:\Programming Languages\Windows phone workshop material\projects\final copy skynet\skyNetV1\obj\Debug\WindowsPhoneControl1.g.cs

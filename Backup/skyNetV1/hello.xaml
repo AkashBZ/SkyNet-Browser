@@ -1,0 +1,39 @@
+﻿<phone:PhoneApplicationPage 
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+	xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+	x:Class="skyNetV1.hello"
+	FontFamily="{StaticResource PhoneFontFamilyNormal}"
+	FontSize="{StaticResource PhoneFontSizeNormal}"
+	Foreground="{StaticResource PhoneForegroundBrush}"
+	Orientation="Portrait"
+	shell:SystemTray.IsVisible="True">
+
+	<!--LayoutRoot is the root grid where all page content is placed-->
+	<Grid x:Name="LayoutRoot" >
+        <Grid.Background>
+            <ImageBrush ImageSource="emc.jpg" Stretch="UniformToFill" Opacity="0.15"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="*"/>
+		</Grid.RowDefinitions>
+		
+		<!--TitlePanel contains the name of the application and page title-->
+		<StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="PageTitle" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" FontSize="64" Height="87"><Run Text="    Our Team !"/><LineBreak/><Run/></TextBlock>
+		</StackPanel>
+
+		<!--ContentPanel - place additional content here-->
+		<Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+			<Button Content="Deshraj" Height="72" Margin="104,59,62,0" VerticalAlignment="Top" BorderThickness="0" FontSize="32" Click="Button_Click" />
+			<Button Content="Akash Tewari" Height="72" Margin="104,155,62,0" VerticalAlignment="Top" BorderThickness="0" FontSize="32" Click="Button_Click_1" />
+			<Button Content="Shivam Srivastava" Margin="104,253,44,314" BorderThickness="0" FontSize="32" RenderTransformOrigin="0.51,-0.479" Click="Button_Click_2" />
+			<Button Content="Harsh Gangwar" Height="82" Margin="104,0,62,194" VerticalAlignment="Bottom" BorderThickness="0" FontSize="32" RenderTransformOrigin="0.497,-1.022" Click="Button_Click_3" />
+		</Grid>
+	</Grid>
+</phone:PhoneApplicationPage>

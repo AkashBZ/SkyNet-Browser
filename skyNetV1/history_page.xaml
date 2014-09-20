@@ -1,0 +1,59 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="skyNetV1.history_page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="696" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="PageTitle" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"><Run Text="    "/><Run FontFamily="Sitka Heading" Text="HISTORY"/></TextBlock>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+        	<ListBox>
+        		<StackPanel x:Name="mystackpanel" Height="558" Width="468"/>
+        	</ListBox>
+        	<!--<ListBox Margin="8,0,0,0">
+        		<Button x:Name="b1" Content="" Height="66" Width="440" BorderThickness="0" Click="b1_Click" />
+        		<Button x:Name="b2" Content="" Height="64" Width="440" BorderThickness="0" Click="b2_Click" />
+        		<Button x:Name="b3" Content="" Height="62" Width="440" BorderThickness="0" Click="b3_Click" />
+        		<Button x:Name="b4" Content="" Height="62" Width="440" BorderThickness="0" Click="b4_Click" />
+        		<Button x:Name="b5" Content="" Height="62" Width="440" BorderThickness="0" Click="b5_Click" />
+        		<Button x:Name="b6" Content="" Height="62" Width="440" BorderThickness="0" Click="b6_Click" />
+        		<Button x:Name="b7" Content="" Height="62" Width="440" BorderThickness="0" Click="b7_Click" />
+        		<Button x:Name="b8" Content="" Height="62" Width="440" BorderThickness="0" Click="b8_Click" />
+        		<Button x:Name="b9" Content="" Height="62" Width="440" BorderThickness="0" Click="b9_Click" />
+        		<Button x:Name="b10" Content="" Height="62" Width="440" BorderThickness="0" Click="b10_Click" />
+        	</ListBox>-->
+
+        </Grid>
+    </Grid>
+ 
+    <!--Sample code showing usage of ApplicationBar-->
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton x:Name="clear_history" IconUri="/icons/appbar.delete.rest.png" Text="Clear History" Click="clear_history_Click" />
+            <shell:ApplicationBarIconButton x:Name="pre_history" IconUri="/icons/appbar.back.rest.png" Text="Previous" Click="pre_history_Click" />
+            <shell:ApplicationBarIconButton x:Name="lat_history" IconUri="/icons/appbar.next.rest.png" Text="Latest History" Click="lat_history_Click" />
+
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>
